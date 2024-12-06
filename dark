@@ -1,0 +1,12 @@
+{
+    "name": "Catppuccin Frappé",
+    "colors": {
+      "primaryBackground": "#232634",
+      "secondaryBackground": "#303446",
+      "textColor": "#c6d0f5",
+      "accentColor": "#8caaee",
+      "buttonBackground": "#ea999c",
+      "buttonHover": "#e78284"
+    }
+  }
+  
