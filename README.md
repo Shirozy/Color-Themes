@@ -2,8 +2,7 @@
 
 A curated collection of color themes for various modes (e.g., light, dark) and purposes (web development, design, terminal themes, etc.). Each theme includes detailed descriptions, color palettes, and exportable formats such as JSON, CSS, and more.
 
-### Add a theme easily here: [ WIP ]
-https://n8n.subversion.life/form/43118566-d40a-4c00-807b-9df35c50b1e7
+### Add a theme easily [here](https://n8n.subversion.life/form/43118566-d40a-4c00-807b-9df35c50b1e7): [Theme Ceator](https://n8n.subversion.life/form/43118566-d40a-4c00-807b-9df35c50b1e7)
 ---
 
 ## **Table of Contents**
