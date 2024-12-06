@@ -1,0 +1,12 @@
+{
+    "name": "tokyonight-light",
+    "colors": {
+      "primaryBackground": "#ffffff",
+      "secondaryBackground": "#f0f0f3",
+      "textColor": "#1a1b26",
+      "accentColor": "#409eff",
+      "buttonBackground": "#dfe6e9",
+      "buttonHover": "#90caf9"
+    }
+  }
+  

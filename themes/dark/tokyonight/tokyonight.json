@@ -1,11 +1,11 @@
 {
-    "name": "tokyonight",
-    "type": "dark",
+    "name": "Tokyonight",
     "colors": {
-        "background": "#1a1b26",
-        "foreground": "#c0caf5",
-        "primary": "#7aa2f7",
-        "secondary": "#bb9af7",
-        "accent": "#f7768e"
+      "primaryBackground": "#1a1b26",
+      "secondaryBackground": "#16161e",
+      "textColor": "#a9b1d6",
+      "accentColor": "#7aa2f7",
+      "buttonBackground": "#414868",
+      "buttonHover": "#7dcfff"
     }
-}
+  } 

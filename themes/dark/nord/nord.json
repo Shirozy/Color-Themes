@@ -1,0 +1,12 @@
+{
+    "name": "Nord-Dark",
+    "colors": {
+      "primaryBackground": "#2e3440",
+      "secondaryBackground": "#3b4252",
+      "textColor": "#d8dee9",
+      "accentColor": "#88c0d0",
+      "buttonBackground": "#4c566a",
+      "buttonHover": "#81a1c1"
+    }
+  }
+  

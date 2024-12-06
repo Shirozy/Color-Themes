@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<div id="gradient"></div>
+<div id="pattern"></div>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theme Creator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+    <div class="container">
+        <header>
+            <h1>Theme Creator</h1>
+            <p>Create and preview custom themes easily.</p>
+        </header>        
+
+        <section class="color-picker-section">
+            <h2>Choose Theme Colors</h2>
+            <div class="color-inputs">
+                <div class="color-input">
+                    <label for="primary-bg">Primary Background</label>
+                    <input type="color" id="primary-bg" value="#2E3440">
+                </div>
+                <div class="color-input">
+                    <label for="secondary-bg">Secondary Background</label>
+                    <input type="color" id="secondary-bg" value="#3B4252">
+                </div>
+                <div class="color-input">
+                    <label for="text-color">Text Color</label>
+                    <input type="color" id="text-color" value="#D8DEE9">
+                </div>
+                <div class="color-input">
+                    <label for="button-bg">Button Background</label>
+                    <input type="color" id="button-bg" value="#81A1C1">
+                </div>
+                <div class="color-input">
+                    <label for="accent-color">Accent Color</label>
+                    <input type="color" id="accent-color" value="#BF616A">
+                </div>
+            </div>
+            <button id="preview-button">Preview Theme</button>
+        </section>
+
+        <section class="actions">
+            <button id="export-button">Download Theme Files</button>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="animations.js"></script>
+</body>
+</html>

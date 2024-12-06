@@ -1,0 +1,12 @@
+{
+    "name": "nord-light",
+    "colors": {
+      "primaryBackground": "#eceff4",
+      "secondaryBackground": "#d8dee9",
+      "textColor": "#2e3440",
+      "accentColor": "#81a1c1",
+      "buttonBackground": "#e5e9f0",
+      "buttonHover": "#5e81ac"
+    }
+  }
+  

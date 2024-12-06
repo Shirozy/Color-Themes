@@ -1,0 +1,12 @@
+{
+    "name": "Tokyonight-Storm",
+    "colors": {
+      "primaryBackground": "#24283b",
+      "secondaryBackground": "#1e2030",
+      "textColor": "#c0caf5",
+      "accentColor": "#bb9af7",
+      "buttonBackground": "#3b4261",
+      "buttonHover": "#ff9e64"
+    }
+  }
+  
