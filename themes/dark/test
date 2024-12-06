@@ -1,0 +1,12 @@
+{
+    "name": "test",
+    "colors": {
+      "primaryBackground": "t",
+      "secondaryBackground": "t",
+      "textColor": "t",
+      "accentColor": "t",
+      "buttonBackground": "t",
+      "buttonHover": "t"
+    }
+  }
+  
