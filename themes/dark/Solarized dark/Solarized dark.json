@@ -1,0 +1,12 @@
+{
+    "name": "Solarized dark",
+    "colors": {
+      "primaryBackground": "#002b36",
+      "secondaryBackground": "#073642",
+      "textColor": "#93a1a1",
+      "accentColor": "#657b83",
+      "buttonBackground": "#fdf6e3",
+      "buttonHover": "#eee8d5"
+    }
+  }
+  
